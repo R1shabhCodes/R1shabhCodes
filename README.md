@@ -12,7 +12,6 @@
 - 🎓 I'm a Computer Science Engineering student  
 - 💡 Exploring **AI/ML**, **Web Development**, and **Blockchain**
 - 💪 Focused on building real-world projects & competing in hackathons  
-- 🔭 Currently building: `AI-powered tools`, `React + FastAPI apps`, and `Geospatial ML solutions`
 - ✍️ I write tech notes & share updates on [LinkedIn](https://www.linkedin.com/in/your-profile/)
 
 ---
