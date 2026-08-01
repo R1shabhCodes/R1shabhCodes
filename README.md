@@ -214,26 +214,17 @@ Every commit is another step toward building intelligent systems.
 
 ## ✦ CONNECT ✦
 
-</p>
-
 <p align="center">
 
-<a href="https://www.linkedin.com/in/rushabh-s-a51283312/">
-
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-
+<a href="mailto:rushabhsingh2522@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:rushabhsingh2522@gmail.com">
-
-<img src="https://skillicons.dev/icons?i=gmail"/>
-
+<a href="https://www.linkedin.com/in/rushabh-singh22/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
-
 ---
 
 <p align="center">
