@@ -1,6 +1,6 @@
-<!-- ======================== -->
-<!--        HERO BANNER       -->
-<!-- ======================== -->
+<!-- ========================= -->
+<!--       PREMIUM README      -->
+<!-- ========================= -->
 
 <p align="center">
   <img src="./assets/banner.png" width="100%" alt="Banner"/>
@@ -10,76 +10,91 @@
 
 <h1 align="center">Rushabh</h1>
 
-<h3 align="center">
-Designing Intelligent Systems
-</h3>
-
 <p align="center">
-Research • Build • Ship
+<b>Designing Intelligent Systems</b>
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1200&color=00E5FF&center=true&vCenter=true&width=800&lines=Building+AI+Products;Machine+Learning+Engineer;Full+Stack+Developer;Hackathon+Explorer;Open+Source+Contributor;Always+Building+Something+New"/>
-
+THINK • BUILD • SHIP
 </p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=R1shabhCodes&style=for-the-badge&color=0e75b6"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&center=true&vCenter=true&width=850&color=00E5FF&lines=Building+AI+Products;Machine+Learning+Engineer;Full+Stack+Developer;Research+Driven+Builder;Hackathon+Explorer;Open+Source+Contributor"/>
 </p>
 
----
+<br>
 
 <p align="center">
-<img src="./assets/workplace.gif" width="85%" alt="Workspace"/>
+<img src="./assets/workplace.gif" width="82%">
 </p>
 
 <br>
 
 <p align="center">
 
-> Turning ambitious ideas into intelligent software.
+> *Turning ambitious ideas into intelligent software.*
 
 </p>
 
 ---
-
-# CURRENT
 
 <p align="center">
 
-🧠 Learning AI Systems &nbsp;&nbsp; • &nbsp;&nbsp;
-🚀 Building Intelligent Products &nbsp;&nbsp; • &nbsp;&nbsp;
-🌍 Open Source &nbsp;&nbsp; • &nbsp;&nbsp;
-🏆 Hackathons
+## ✦ CURRENT OPERATIONS ✦
 
 </p>
 
----
+<table align="center">
 
-# EXPLORE
+<tr>
+
+<td align="center" width="33%">
+
+### 🧠 THINK
+
+Research
+
+Reasoning
+
+AI Systems
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙ BUILD
+
+Products
+
+Automation
+
+Open Source
+
+</td>
+
+<td align="center" width="33%">
+
+### 🚀 SHIP
+
+Hackathons
+
+Deployments
+
+Iteration
+
+</td>
+
+</tr>
+
+</table>
+
+---
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MLOps-111827?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge"/>
+## ✦ TECHNOLOGIES ✦
 
 </p>
-
----
-
-# TOOLBOX
 
 <p align="center">
 
@@ -87,15 +102,37 @@ Research • Build • Ship
 
 </p>
 
----
-
-# GITHUB DASHBOARD
+<br>
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=R1shabhCodes&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=flat-square"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1shabhCodes&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/Generative%20AI-111827?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/LLMs-111827?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/AI%20Agents-111827?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/MLOps-111827?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Automation-111827?style=flat-square"/>
+
+</p>
+
+---
+
+<p align="center">
+
+## ✦ GITHUB DASHBOARD ✦
+
+</p>
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=R1shabhCodes&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1shabhCodes&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -107,7 +144,11 @@ Research • Build • Ship
 
 ---
 
-# CONTRIBUTION GRAPH
+<p align="center">
+
+## ✦ CONTRIBUTION MAP ✦
+
+</p>
 
 <p align="center">
 
@@ -117,29 +158,63 @@ Research • Build • Ship
 
 ---
 
-# ACHIEVEMENTS
+<p align="center">
+
+## ✦ CURRENT JOURNEY ✦
+
+</p>
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=R1shabhCodes&theme=tokyonight&no-frame=true&column=4&margin-w=15"/>
+🚀 Building AI Products
+
+<br>
+
+🧠 Exploring Machine Learning
+
+<br>
+
+🌍 Contributing to Open Source
+
+<br>
+
+⚡ Preparing for Hackathons
 
 </p>
 
 ---
 
-# CONTRIBUTIONS
+<p align="center">
 
-> Enable the Snake GitHub Action later and this will automatically work.
+## ✦ CONTRIBUTIONS ✦
+
+</p>
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/R1shabhCodes/R1shabhCodes/output/github-contribution-grid-snake.svg"/>
+<i>
+
+Every commit is another step toward building intelligent systems.
+
+</i>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/R1shabhCodes/R1shabhCodes/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
-# CONNECT
+<p align="center">
+
+## ✦ CONNECT ✦
+
+</p>
 
 <p align="center">
 
@@ -149,7 +224,7 @@ Research • Build • Ship
 
 </a>
 
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:rushabhsingh2522@gmail.com">
 
@@ -164,17 +239,25 @@ Research • Build • Ship
 <p align="center">
 
 ```cpp
-while (alive) {
+class Rushabh {
 
-    Think();
+public:
 
-    Build();
+    void mission() {
 
-    Improve();
+        Think();
 
-    Repeat();
+        Research();
 
-}
+        Build();
+
+        Ship();
+
+        Repeat();
+
+    }
+
+};
 ```
 
 </p>
