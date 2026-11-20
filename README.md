@@ -1,14 +1,6 @@
 <img width="100%" src="./assets/chill-mario.gif" alt="Mario coding late at night in a neon-lit studio by Pixel Jeff">
 
-<h1 align="center"><code>&gt; Rushabh Singh_</code></h1>
-
-## About me
-
-```console
-rushabh@dev:~$ cat about-me.txt
-I'm a final-year B.Tech student studying AI and machine learning.
-I like building AI systems and full-stack projects.
-```
+<img width="100%" src="./assets/profile-terminal.svg" alt="Rushabh Singh, final-year B.Tech student in AI and ML. I like building AI systems and full-stack projects. Public project code by language: JavaScript 34.1%, Python 31.2%, TypeScript 15.4%, CSS 13.7%, HTML 5.3%, Shell 0.1%, Dockerfile 0.1%.">
 
 ## Tech stack
 
