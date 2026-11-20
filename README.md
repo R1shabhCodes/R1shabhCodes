@@ -6,7 +6,7 @@
 <p align="center"><strong>AI engineering &nbsp; / &nbsp; full-stack development</strong></p>
 <p align="center">I like the stretch between a model that works in a notebook and a tool someone can actually use.<br>Right now I’m exploring language models, agent workflows, and hackathon builds.</p>
 <p align="center">
-  <a href="https://github.com/R1shabhCodes?tab=repositories"><b>Browse my code ↗</b></a> &nbsp; · &nbsp;
+  <a href="#contribution-arcade"><b>Enter the arcade ↓</b></a> &nbsp; · &nbsp;
   <a href="https://www.linkedin.com/in/rushabh-singh22/">LinkedIn</a> &nbsp; · &nbsp;
   <a href="mailto:rushabhsingh2522@gmail.com">Email</a>
 </p>
@@ -21,13 +21,23 @@
 
 ## GitHub stats
 
-<a href="https://github.com/R1shabhCodes?tab=overview"><img width="100%" src="https://raw.githubusercontent.com/R1shabhCodes/R1shabhCodes/profile-arcade/activity.svg" alt="My rolling-year contribution total, current and best streaks, and weekly contribution chart"></a>
+<!-- activity:start -->
 
-## From my repositories
+| Contributions · past year | Current streak | Best streak · past year |
+| :---: | :---: | :---: |
+| **85** | **1 day** | **3 days** |
 
-- [**Medical Data Visualizer**](https://github.com/R1shabhCodes/Medical-Data-Visualizer) · Explore health data with Python.
-- [**Podcast Summarizer**](https://github.com/R1shabhCodes/Podcast_Summarizer) · A Python project for summarizing podcasts.
-- [**Foodshare**](https://github.com/R1shabhCodes/foodshare) · A food donation website built with JavaScript.
+Calendar through `2026-11-20` · [View activity on GitHub](https://github.com/R1shabhCodes?tab=overview)
+
+<!-- activity:end -->
+
+## In my scratchpad
+
+Three questions I’d happily spend a hackathon chasing:
+
+- **Tool-calling agents** · If an API times out after taking an action, how does the agent know whether it’s safe to retry?
+- **Model evaluation** · Which five awkward inputs would break a demo that looks great on the happy path?
+- **Full-stack AI** · What should someone see on screen during the two seconds before the first token arrives?
 
 ## Contribution arcade
 
@@ -47,3 +57,9 @@ Each square is a day on my GitHub calendar. Watch the snake eat its way through 
 </picture>
 
 </details>
+
+## Multiplayer
+
+Building an agent, comparing model outputs, or looking for a hackathon teammate? Send me the smallest example that shows what you’re trying to do. A failing input is a great conversation starter.
+
+[Email Rushabh](mailto:rushabhsingh2522@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/rushabh-singh22/)
