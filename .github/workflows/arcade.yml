@@ -2,7 +2,7 @@ name: Refresh contribution arcade
 on:
   push:
     branches: [main]
-    paths: ['.github/workflows/arcade.yml', '.github/activity.mjs']
+    paths: ['.github/workflows/arcade.yml']
   workflow_dispatch:
   schedule:
     - cron: '17 3 * * *'
@@ -10,29 +10,6 @@ on:
 concurrency: profile-arcade
 
 jobs:
-  stats:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          ref: main
-      - name: Render profile stats
-        run: node .github/activity.mjs
-        env:
-          GITHUB_TOKEN: ${{ github.token }}
-
-      - name: Update README statistics
-        run: |
-          if ! git diff --quiet -- README.md; then
-            git config user.name 'github-actions[bot]'
-            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-            git add README.md
-            git commit -m "Refresh profile statistics"
-            git push origin HEAD:main
-          fi
-
   render:
     runs-on: ubuntu-latest
     timeout-minutes: 20
