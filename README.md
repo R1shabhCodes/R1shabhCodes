@@ -25,9 +25,17 @@
 
 | Contributions · past year | Current streak | Best streak · past year |
 | :---: | :---: | :---: |
-| **85** | **1 day** | **3 days** |
+| **86** | **1 day** | **3 days** |
 
-Calendar through `2026-11-20` · [View activity on GitHub](https://github.com/R1shabhCodes?tab=overview)
+**Weekly contributions**
+
+```text
+··▃··········█··················█·▄█▆▂▂··▃▃········▇▄
+```
+
+Oldest → newest · Peak week: 15 contributions · Updated 2026-11-20 UTC
+
+[View activity on GitHub](https://github.com/R1shabhCodes?tab=overview)
 
 <!-- activity:end -->
 
