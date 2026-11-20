@@ -2,7 +2,7 @@ name: Refresh contribution arcade
 on:
   push:
     branches: [main]
-    paths: ['.github/workflows/arcade.yml']
+    paths: ['.github/workflows/arcade.yml', '.github/activity.mjs']
   workflow_dispatch:
   schedule:
     - cron: '17 3 * * *'
@@ -16,11 +16,19 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
       - name: Render the contribution calendar in both themes
         uses: abozanona/pacman-contribution-graph@70945878b1118303b37b88060fc7145e1a57d7b1
         with:
           github_user_name: ${{ github.repository_owner }}
           games: snake,pacman
+
+      - name: Render profile stats
+        run: node .github/activity.mjs
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
 
       - name: Check generated images
         run: |
