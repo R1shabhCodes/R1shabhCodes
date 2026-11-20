@@ -1,254 +1,76 @@
-<!-- ========================= -->
-<!--       PREMIUM README      -->
-<!-- ========================= -->
+<img src="./assets/banner.png" width="100%" alt="Rushabh's profile banner">
 
-<p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Banner"/>
-</p>
+# Rushabh Singh
 
-<br>
+**Designing intelligent systems** &nbsp; · &nbsp; `think → build → ship`
 
-<h1 align="center">Rushabh</h1>
+I build AI products and the web apps around them. Lately I’ve been exploring how language models use tools, automating repetitive work, and turning research ideas into hackathon prototypes.
 
-<p align="center">
-<b>Designing Intelligent Systems</b>
-</p>
+[Repositories](https://github.com/R1shabhCodes?tab=repositories) · [LinkedIn](https://www.linkedin.com/in/rushabh-singh22/) · [Email me](mailto:rushabhsingh2522@gmail.com)
 
-<p align="center">
-THINK • BUILD • SHIP
-</p>
+## Toolbox
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&center=true&vCenter=true&width=850&color=00E5FF&lines=Building+AI+Products;Machine+Learning+Engineer;Full+Stack+Developer;Research+Driven+Builder;Hackathon+Explorer;Open+Source+Contributor"/>
-</p>
+| What I’m working on | Tools I reach for |
+| --- | --- |
+| **Languages** | <img height="36" src="https://skillicons.dev/icons?i=python,cpp,java,js,ts" alt="Python, C++, Java, JavaScript and TypeScript"> |
+| **Models & training** | <img height="36" src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="PyTorch and TensorFlow"> |
+| **Interfaces & APIs** | <img height="36" src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,django" alt="React, Next.js, Node.js, FastAPI and Django"> |
+| **Data & deployment** | <img height="36" src="https://skillicons.dev/icons?i=mongodb,postgres,docker,linux" alt="MongoDB, PostgreSQL, Docker and Linux"> |
+| **Everyday tools** | <img height="36" src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code"> |
 
-<br>
+## Contribution arcade
 
-<p align="center">
-<img src="./assets/workplace.gif" width="82%">
-</p>
+Each square is a day on my GitHub calendar. Watch the snake eat its way through a year of commits, issues, and pull requests.
 
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/R1shabhCodes/R1shabhCodes/profile-arcade/snake-contribution-graph-dark.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/R1shabhCodes/R1shabhCodes/profile-arcade/snake-contribution-graph.svg" alt="Snake eating squares on Rushabh’s contribution calendar">
+</picture>
 
-<p align="center">
+<details>
+<summary><strong>Switch to Pac-Man</strong> · same calendar, four ghosts</summary>
 
-> *Turning ambitious ideas into intelligent software.*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/R1shabhCodes/R1shabhCodes/profile-arcade/pacman-contribution-graph-dark.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/R1shabhCodes/R1shabhCodes/profile-arcade/pacman-contribution-graph.svg" alt="Pac-Man collecting contributions while ghosts chase him">
+</picture>
 
-</p>
+</details>
 
----
+<details>
+<summary><strong>One-line Python challenge</strong> · guess the output</summary>
 
-<p align="center">
+What does this print after just one append?
 
-## ✦ CURRENT OPERATIONS ✦
-
-</p>
-
-<table align="center">
-
-<tr>
-
-<td align="center" width="33%">
-
-### 🧠 THINK
-
-Research
-
-Reasoning
-
-AI Systems
-
-</td>
-
-<td align="center" width="33%">
-
-### ⚙ BUILD
-
-Products
-
-Automation
-
-Open Source
-
-</td>
-
-<td align="center" width="33%">
-
-### 🚀 SHIP
-
-Hackathons
-
-Deployments
-
-Iteration
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<p align="center">
-
-## ✦ TECHNOLOGIES ✦
-
-</p>
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,nextjs,nodejs,fastapi,django,mongodb,postgres,docker,linux,git,github,vscode,pytorch,tensorflow"/>
-
-</p>
-
-<br>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Generative%20AI-111827?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/LLMs-111827?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/AI%20Agents-111827?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/MLOps-111827?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Automation-111827?style=flat-square"/>
-
-</p>
-
----
-
-<p align="center">
-
-## ✦ GITHUB DASHBOARD ✦
-
-</p>
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=R1shabhCodes&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R1shabhCodes&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=R1shabhCodes&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-## ✦ CONTRIBUTION MAP ✦
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=R1shabhCodes&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-## ✦ CURRENT JOURNEY ✦
-
-</p>
-
-<p align="center">
-
-🚀 Building AI Products
-
-<br>
-
-🧠 Exploring Machine Learning
-
-<br>
-
-🌍 Contributing to Open Source
-
-<br>
-
-⚡ Preparing for Hackathons
-
-</p>
-
----
-
-<p align="center">
-
-## ✦ CONTRIBUTIONS ✦
-
-</p>
-
-<p align="center">
-
-<i>
-
-Every commit is another step toward building intelligent systems.
-
-</i>
-
-</p>
-
-<br>
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/R1shabhCodes/R1shabhCodes/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-<p align="center">
-
-## ✦ CONNECT ✦
-
-<p align="center">
-
-<a href="mailto:rushabhsingh2522@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/rushabh-singh22/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
----
-
-<p align="center">
-
-```cpp
-class Rushabh {
-
-public:
-
-    void mission() {
-
-        Think();
-
-        Research();
-
-        Build();
-
-        Ship();
-
-        Repeat();
-
-    }
-
-};
+```python
+runs = [[]] * 3
+runs[1].append("ship")
+print(runs)
 ```
 
-</p>
+<details>
+<summary>Reveal the answer</summary>
+
+```python
+[['ship'], ['ship'], ['ship']]
+```
+
+List multiplication repeats the reference to the same inner list. To give each run its own list, use `[[] for _ in range(3)]`.
+
+</details>
+</details>
+
+## Workbench
+
+<img src="./assets/workplace.gif" width="480" alt="Animated illustration of my developer workspace">
+
+I’m exploring generative AI, agent workflows, and MLOps. If you’re building an open-source AI tool or looking for a hackathon teammate, [drop me a line](mailto:rushabhsingh2522@gmail.com).
+
+<details>
+<summary><strong>GitHub activity & streak</strong></summary>
+
+<img src="https://streak-stats.demolab.com?user=R1shabhCodes&amp;theme=tokyonight&amp;hide_border=true" alt="Rushabh’s contribution streak">
+
+[Explore my contribution history on GitHub](https://github.com/R1shabhCodes#js-yearly-contributions)
+
+</details>

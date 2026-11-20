@@ -1,0 +1,38 @@
+name: Refresh contribution arcade
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/arcade.yml']
+  workflow_dispatch:
+  schedule:
+    - cron: '17 3 * * *'
+
+concurrency: profile-arcade
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+    steps:
+      - name: Render the contribution calendar in both themes
+        uses: abozanona/pacman-contribution-graph@70945878b1118303b37b88060fc7145e1a57d7b1
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: snake,pacman
+
+      - name: Check generated images
+        run: |
+          for game in snake pacman; do
+            for theme in '' '-dark'; do
+              test -s "dist/${game}-contribution-graph${theme}.svg"
+            done
+          done
+
+      - name: Publish arcade images
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: profile-arcade
