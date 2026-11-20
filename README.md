@@ -1,22 +1,19 @@
 <img width="100%" src="./assets/chill-mario.gif" alt="Mario coding late at night in a neon-lit studio by Pixel Jeff">
 
-<img width="100%" src="./assets/nameplate.svg" alt="Rushabh Singh — AI / Full Stack">
+<h1 align="center"><code>&gt; Rushabh Singh_</code></h1>
 
-## Demo Day
+## About me
 
-<img width="100%" src="./assets/demo-day.svg" alt="Four stages of a hackathon lit up in sequence: sketch, build, debug, demo">
+```console
+rushabh@dev:~$ cat about-me.txt
+I'm a final-year B.Tech student studying AI and machine learning.
+I like building AI systems and full-stack projects.
+```
 
-## Loadout
+## Tech stack
 
 <img width="100%" src="./assets/app-stack.svg" alt="App stack: Python, C++, Java, JavaScript, TypeScript, React, Next.js, Node.js, FastAPI and Django">
 <img width="100%" src="./assets/ml-tools.svg" alt="ML and tools: PyTorch, TensorFlow, MongoDB, PostgreSQL, Docker, Linux, Git, GitHub and VS Code">
-
-<details>
-<summary><kbd>OPEN EMERGENCY DEMO KIT</kbd></summary>
-
-<img width="100%" src="./assets/demo-kit.svg" alt="An open case with an HDMI adapter, a USB drive labeled backup.mp4, and a rubber duck">
-
-</details>
 
 ## Contribution arcade
 

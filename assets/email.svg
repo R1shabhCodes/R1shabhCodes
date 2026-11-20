@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 136 36" role="img"><title>Email</title><rect x="0" y="0" width="136" height="36" fill="#10162c"/><rect x="0" y="33" width="136" height="3" fill="#3c4669"/><rect x="0" y="0" width="6" height="36" fill="#69e3db"/><rect x="15" y="13" width="8" height="8" fill="#ff8dbd"/><text x="34" y="24" fill="#e6ebff" font-family="monospace" font-size="18" font-weight="bold">Email</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 136 38" role="img">
+  <title>Email</title>
+  <rect x=".5" y=".5" width="135" height="37" rx="7" fill="#161b22" stroke="#485464"/>
+  <g transform="translate(10 9)"><path fill="#4285f4" d="M0 3l5 4v13H2a2 2 0 0 1-2-2z"/><path fill="#34a853" d="M19 7l5-4v15a2 2 0 0 1-2 2h-3z"/><path fill="#ea4335" d="M5 2l7 5.3L19 2v6l-7 5.3L5 8z"/><path fill="#c5221f" d="M0 3c0-2.5 2.4-3.5 4-2l1 1v6L0 4.3z"/><path fill="#fbbc04" d="M19 2l1-1c1.8-1.6 4-.4 4 2v1.3L19 8z"/></g>
+  <text x="44" y="25" fill="#f0f6fc" font-family="monospace" font-size="16">Email</text>
+</svg>
